@@ -1,3 +1,7 @@
+# This version is a backend for the update service. Goto the nexus page for a proper download:
+# https://www.nexusmods.com/fallout4/mods/39238?tab=description
+
+
 # Fallout-4-Modding-Essentials
 
 The Fallout 4 Modding Essentials Package aims to make modding Fallout 4 easier with a variety of different features to make modders lives easier.
